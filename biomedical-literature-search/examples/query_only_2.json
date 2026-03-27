@@ -1,0 +1,4 @@
+{
+    "query": "How does tumor mutational burden relate to immunotherapy outcomes across solid tumor types?",
+    "base_dir": "${session_dir}/files/research_notes"
+}

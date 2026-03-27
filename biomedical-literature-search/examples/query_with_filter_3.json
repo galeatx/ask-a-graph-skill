@@ -1,0 +1,5 @@
+{
+    "query": "How effective is CAR-T cell therapy in treating relapsed or refractory B-cell malignancies?",
+    "base_dir": "${session_dir}/files/research_notes",
+    "filter_query": "Focus on clinical trials reporting efficacy and safety outcomes in adult patients."
+}

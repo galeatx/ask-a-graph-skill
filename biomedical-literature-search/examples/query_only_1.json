@@ -1,0 +1,4 @@
+{
+    "query": "What is the role of PD-L1 expression in predicting response to immune checkpoint inhibitors in non-small cell lung cancer?",
+    "base_dir": "${session_dir}/files/research_notes"
+}

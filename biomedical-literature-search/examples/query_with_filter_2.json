@@ -1,0 +1,5 @@
+{
+    "query": "What are the mechanisms by which KRAS mutations drive resistance to targeted therapy in colorectal cancer?",
+    "base_dir": "${session_dir}/files/research_notes",
+    "filter_query": "Prioritize studies that investigate therapeutic strategies or combination approaches to overcome resistance."
+}

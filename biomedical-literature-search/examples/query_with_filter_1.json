@@ -1,0 +1,5 @@
+{
+    "query": "What is the role of IL-6 in promoting metastasis in solid tumors?",
+    "base_dir": "${session_dir}/files/research_notes",
+    "filter_query": "Focus on human clinical studies published after 2015."
+}

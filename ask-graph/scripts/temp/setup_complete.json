@@ -1,0 +1,7 @@
+{
+  "setup_complete": true,
+  "databases": [
+    "oncograph",
+    "arch-v5"
+  ]
+}

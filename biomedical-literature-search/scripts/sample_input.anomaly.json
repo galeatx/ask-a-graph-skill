@@ -1,0 +1,6 @@
+{
+    "query": "Search for peer-reviewed articles on the role of ferroptosis in hepatocellular carcinoma.",
+    "base_dir": "test/fail",
+    "filter_query": "focus on animal studies, specifically mouse models",
+    "save_articles": true
+}

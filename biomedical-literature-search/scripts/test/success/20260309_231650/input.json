@@ -1,0 +1,6 @@
+{
+    "query": "What is the role of IL6 in cancer metastasis?",
+    "base_dir": "test/success",
+    "filter_query": "focus on human clinical studies published after 2015",
+    "save_articles": true
+}

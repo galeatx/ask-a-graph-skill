@@ -40,7 +40,7 @@ curl http://localhost:8627/health
 From this repo's root, confirm the client can reach the MCP server:
 
 ```bash
-uv run python -m ai_oncology.graph_client --list-tools
+uv run python -m graph_client --list-tools
 ```
 
 This should print the list of available MCP tools. If it fails, check that the server is running on port 8627.
